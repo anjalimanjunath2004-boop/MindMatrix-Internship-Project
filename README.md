@@ -47,7 +47,7 @@ Rakta-Seva Connect is an Android application developed to help users find blood 
 - Anjali M
 
 ## GitHub Repository
-(Add your repository link here)
+(https://github.com/anjalimanjunath2004-boop/MindMatrix-Internship-Project)
 
 ## Conclusion
 Rakta-Seva Connect helps people during medical emergencies by providing a fast and simple platform to connect blood donors and recipients.
